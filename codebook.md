@@ -5,9 +5,9 @@
  - traindatax - training data x
  - traindatay - training data y
  - traindatasub - subject for training data
- - testdatax - training data x
- - testdatay - training data y
- - testdatasub - subject for training data
+ - testdatax - testing data x
+ - testdatay - testing data y
+ - testdatasub - subject for testing data
  - actlabels - activity labels
  - features - features of the data, correct names of the datax
 
